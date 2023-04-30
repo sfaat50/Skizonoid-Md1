@@ -44,48 +44,48 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD' // github
-global.sgc = 'https://chat.whatsapp.com/INq67rkTp8iAwiVvLOFAYH' // group whatsapp
+global.sgh = 'https://github.com/sfaat50' // github
+global.sgc = 'https://chat.whatsapp.com/BPqwCgpIKrJ1SIMRbnUB3d' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://youtu.be/E1Cb97Rb-8U' // my youtube channel
+global.snh = 'https://www.youtube.com/@ProfitinGT' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/@ZykoBotzMD'
-global.tik = 'https://www.tiktok.com/@zykosiapa' 
-global.tautanwa = 'https://wa.me/message/CXI3LHFLC6NON1'
-global.wame = 'https://wa.me/message/CXI3LHFLC6NON1' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
+global.syt = 'https://www.youtube.com/@ProfitinGT'
+global.tik = 'https://www.tiktok.com/@faatalwayslonely' 
+global.tautanwa = 'https://wa.me/6282393267884'
+global.wame = 'https://wa.me/6282393267884' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276' //dana
-global.povo = '0852 1264 9276' //ovo
-global.pgopay = '0852 1264 9276' //gopay
-global.plinkaja = '0852 1264 9276' //link aja
-global.ppulsa = '0852 1264 9276' //telkomsel
-global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
+global.pdana = '0821 9046 4669' //dana
+global.povo = '0823 9326 7882' //ovo
+global.pgopay = '0823 9326 7882' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '0823 9326 7884' //telkomsel
+global.ppulsa2 = '0821 9046 4669' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
-global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
+global.nomorbot = '6285757656901'
+global.nomorown = '6282393267884'
+global.nomorown1 = '6281356671736' //pake No Pacar lo Juga Boleh
+global.namebot = '꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ'
+global.nameown = '𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤ੌ'
+global.nameown1 = '✤𝘼𝙙𝙚𝙣𝙚^_^' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/kabulsaputra21' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/lisaamelia8680' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/muhsyafaat1302' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/adffeneddns' // ig cewek lo
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'FaatSkizo' // nithub lu
+global.linkgithub = 'https://github.com/sfaat50' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6282393267884', '𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤', true],
+  ['6281356671736', '✤𝘼𝙙𝙚𝙣𝙚^_^', true],
+  ['6285295888493', '𝙄𝙨𝙖𝙣-𝙀𝙫𝙚𝙧𝙮𝙬𝙝𝙚𝙧𝙚☭, true],
+  ['', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
 //Ganti jd nomormu sama Namamu
 ] 

@@ -85,36 +85,37 @@ global.owner = [
   ['6282393267884', '𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤', true],
   ['6281356671736', '✤𝘼𝙙𝙚𝙣𝙚^_^', true],
   ['6285295888493', '𝙄𝙨𝙖𝙣-𝙀𝙫𝙚𝙧𝙮𝙬𝙝𝙚𝙧𝙚☭, true],
-  ['', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6285939479477', 'ヅ𝙋𝙖𝙣𝙜𝙜𝙞𝙡-𝙂𝙬𝙚𝙠𝙟-𝙈𝙖𝙙𝙖𝙣༻', true],
+  ['6282397370091', '✘𝙃𝙞𝙨𝙧𝙪𝙢𝙞-𝙎𝙖𝙣✘', true]
+
 //Ganti jd nomormu sama Namamu
 ] 
 global.mods = [] 
 global.prems = [] 
 
 /*============== WATERMARK ==============*/
-global.gcname = 'ZYKOBOTZ MD'//nama group kalian
+global.gcname = '꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ'//nama group kalian
 global.readMore = readMore
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZYKOBOTZ MD '
+global.wm = '                「 ꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 ZYKOBOTZ MD  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤ੌ`
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ'
+global.author = '              「 ꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickpack = '꧁𝙎𝙠𝙞𝙯𝙤𝙣𝙤𝙞𝙙-𝘽𝙤𝙩𝙯ੌ'
+global.stickauth = `By ©𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤ੌ`
  
 /*============== LOGO ==============*/
-global.fotonya1 = 'https://telegra.ph/file/bd078351110aaaaf3aa59.jpg' 
-global.fotonya2 = 'https://telegra.ph/file/bd078351110aaaaf3aa59.jpg'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
+global.fotonya1 = 'https://i.ibb.co/Rv5ZKb7/IMG-20230429-225259.jpg' 
+global.fotonya2 = 'https://i.ibb.co/Rv5ZKb7/IMG-20230429-225259.jpg'
+global.logo = 'https://i.ibb.co/8X2CJ5P/pxfuel.jpg'
 global.thumb = ImgEstetik() //Main Thumbnail
 global.imagebot = ImgMountain()
 global.giflogo = VideoGalau()
